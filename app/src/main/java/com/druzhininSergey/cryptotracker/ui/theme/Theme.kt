@@ -1,4 +1,4 @@
-package com.example.cryptotracker.ui.theme
+package com.druzhininSergey.cryptotracker.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

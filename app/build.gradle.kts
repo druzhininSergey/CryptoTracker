@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.cryptotracker"
+    namespace = "com.druzhininSergey.cryptotracker"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.cryptotracker"
+        applicationId = "com.druzhininSergey.cryptotracker"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
