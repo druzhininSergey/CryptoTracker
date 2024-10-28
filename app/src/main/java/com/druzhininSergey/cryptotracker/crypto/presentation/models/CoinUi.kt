@@ -2,8 +2,8 @@ package com.druzhininSergey.cryptotracker.crypto.presentation.models
 
 import android.icu.text.NumberFormat
 import androidx.annotation.DrawableRes
+import com.druzhininSergey.cryptotracker.core.presentation.util.getDrawableIdForCoin
 import com.druzhininSergey.cryptotracker.crypto.domain.Coin
-import com.druzhininSergey.cryptotracker.util.getDrawableIdForCoin
 import java.util.Locale
 
 data class CoinUi(

@@ -1,4 +1,4 @@
-package com.druzhininSergey.cryptotracker.util
+package com.druzhininSergey.cryptotracker.core.presentation.util
 
 import com.druzhininSergey.cryptotracker.R
 
