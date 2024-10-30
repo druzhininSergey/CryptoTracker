@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CryptoTracker</string>
+    <string name="error_request_timeout">Превышено время ожидания запроса</string>
+    <string name="error_too_many_requests">Слишком много запросов. Попробуте повторить позднее.</string>
+    <string name="error_no_internet">Нет соединения с сервером. Проверьте соединение к интернету.</string>
+    <string name="error_unknown">Что-то пошло не так. Попробуйте позже.</string>
+    <string name="error_serialization">Неизвестный ответ от сервера. Обратитесь к разработчику.</string>
 </resources>
