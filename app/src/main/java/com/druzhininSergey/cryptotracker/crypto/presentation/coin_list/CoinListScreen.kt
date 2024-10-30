@@ -15,9 +15,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.PreviewLightDark
 import androidx.compose.ui.unit.dp
+import com.druzhininSergey.cryptotracker.crypto.presentation.coin_list.components.CoinListItem
+import com.druzhininSergey.cryptotracker.crypto.presentation.coin_list.components.previewCoin
 import com.druzhininSergey.cryptotracker.ui.theme.CryptoTrackerTheme
-import com.plcoding.cryptotracker.crypto.presentation.coin_list.components.CoinListItem
-import com.plcoding.cryptotracker.crypto.presentation.coin_list.components.previewCoin
 
 @Composable
 fun CoinListScreen(
@@ -57,7 +57,7 @@ private fun CoinListScreenPreview() {
         CoinListScreen(
             state = CoinListState(
                 coins = (1..100).map {
-                    previewCoin.copy(com.druzhininSergey.cryptotracker.crypto.presentation.models.CoinUi.id = it.toString())
+                    previewCoin.copy(id = it.toString())
                 }
             ),
             modifier = Modifier
