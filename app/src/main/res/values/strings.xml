@@ -5,4 +5,7 @@
     <string name="error_no_internet">Нет соединения с сервером. Проверьте соединение к интернету.</string>
     <string name="error_unknown">Что-то пошло не так. Попробуйте позже.</string>
     <string name="error_serialization">Неизвестный ответ от сервера. Обратитесь к разработчику.</string>
+    <string name="price">Стоимоть</string>
+    <string name="change_last_24h">Изменения за 24ч.</string>
+    <string name="market_cap">Капитализация</string>
 </resources>
