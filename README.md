@@ -86,7 +86,10 @@ The application uses adaptive navigation with `AdaptiveCoinListDetailPane`, whic
 - Android 9.0 (API level 28) or higher
 - Internet connection for receiving up-to-date data
 
-  ![image_alt](https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerPhoneCoinItem.jpg?raw=true)
-  ![image_alt](https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerPhoneCoinList.jpg?raw=true)
-  ![image_alt](https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerTablet1.jpg?raw=true)
-  ![image_alt](https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerTablet2.jpg?raw=true)
+  ### Mobile version
+<img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerPhoneCoinItem.jpg?raw=true" width="250" alt="Coin Item">
+<img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerPhoneCoinList.jpg?raw=true" width="250" alt="Coin List">
+
+### Tablet version
+<img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerTablet1.jpg?raw=true" width="500" alt="Tablet 1">
+<img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerTablet2.jpg?raw=true" width="500" alt="Tablet 2">
