@@ -11,18 +11,25 @@ CryptoTracker is a modern Android application that allows users to track current
 - Adaptive design optimized for various screen sizes
 
 ## Technology Stack
+
 **Programming Language**:
 - Kotlin
+  
 **UI**:
 - Jetpack Compose with Material 3
+  
 **Architecture**:
 - Clean Architecture + MVVM
+  
 **Dependency Injection**:
 - Koin
+  
 **Networking**:
 - Ktor Client
+  
 **Asynchronous Programming**:
 - Coroutines + Flow
+  
 **Adaptive Design**:
 - Material 3 Adaptive Navigation
 
