@@ -1,38 +1,28 @@
 # CryptoTracker
-
 Mobile application for tracking cryptocurrency dynamics in real-time on the Android platform.
 
 ## Project Description
-
 CryptoTracker is a modern Android application that allows users to track current rates of popular cryptocurrencies, view price history on charts, and receive up-to-date information about the cryptocurrency market.
 
 ## Key Features
-
 - Display list of popular cryptocurrencies with current prices
 - Detailed information about selected cryptocurrency
 - Interactive price change charts
 - Adaptive design optimized for various screen sizes
 
 ## Technology Stack
-
 **Programming Language**:
 - Kotlin
-
 **UI**:
 - Jetpack Compose with Material 3
-
 **Architecture**:
 - Clean Architecture + MVVM
-
 **Dependency Injection**:
 - Koin
-
 **Networking**:
 - Ktor Client
-
 **Asynchronous Programming**:
 - Coroutines + Flow
-
 **Adaptive Design**:
 - Material 3 Adaptive Navigation
 
