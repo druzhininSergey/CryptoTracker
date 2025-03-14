@@ -87,9 +87,17 @@ The application uses adaptive navigation with `AdaptiveCoinListDetailPane`, whic
 - Internet connection for receiving up-to-date data
 
   ### Mobile version
-<img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerPhoneCoinItem.jpg?raw=true" width="250" alt="Coin Item">
-<img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerPhoneCoinList.jpg?raw=true" width="250" alt="Coin List">
+<table>
+  <tr>
+    <td><img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerPhoneCoinItem.jpg?raw=true" width="250" alt="Coin Item"></td>
+    <td><img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerPhoneCoinList.jpg?raw=true" width="250" alt="Coin List"></td>
+  </tr>
+</table>
 
 ### Tablet version
-<img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerTablet1.jpg?raw=true" width="500" alt="Tablet 1">
-<img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerTablet2.jpg?raw=true" width="500" alt="Tablet 2">
+<table>
+  <tr>
+    <td><img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerTablet1.jpg?raw=true" width="500" alt="Tablet 1"></td>
+    <td><img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerTablet2.jpg?raw=true" width="500" alt="Tablet 2"></td>
+  </tr>
+</table>
