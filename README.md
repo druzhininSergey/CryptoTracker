@@ -89,8 +89,8 @@ The application uses adaptive navigation with `AdaptiveCoinListDetailPane`, whic
   ### Mobile version
 <table>
   <tr>
-    <td><img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerPhoneCoinItem.jpg?raw=true" width="250" alt="Coin Item"></td>
     <td><img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerPhoneCoinList.jpg?raw=true" width="250" alt="Coin List"></td>
+    <td><img src="https://github.com/druzhininSergey/CryptoTracker/blob/master/CryptoTrackerPhoneCoinItem.jpg?raw=true" width="250" alt="Coin Item"></td>
   </tr>
 </table>
 
